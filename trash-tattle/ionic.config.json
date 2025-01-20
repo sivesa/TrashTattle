@@ -1,0 +1,7 @@
+{
+  "name": "trash-tattle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
