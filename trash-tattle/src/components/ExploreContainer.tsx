@@ -39,7 +39,7 @@ const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
 
   return (
     <div className="container">
-      <div style={{ marginTop: '16px' }}>
+      <div style={{ marginTop: '10px' }}>
         {!isCameraActive ? (
           <IonButton onClick={startCamera}>
             <IonIcon slot="start" icon={camera} />
